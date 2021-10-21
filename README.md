@@ -1,16 +1,13 @@
 # cab_rider
 
-A new Flutter application.
+This is a RideSharingApp for Android devices, developed in Flutter and the database is created in Firebase.
 
-## Getting Started
+Can be run on both android and iOS devices, due to Flutter language, which give my the opportunity to run on two platform without having to make a major changes in my code. App is divided into two parts: rider part and driver part. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+From rider side: 
+  - User can order a car;
+  - See the nearby cars available on the map;
+  - See the overall route;
+  - See the auto-generated price for the trip;
+  - Time until the driver arrive to the indicated location;
+  - Can call the driver after he pick it up the trip;
